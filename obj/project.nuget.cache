@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rfllsKOb1xh/mh7oTQ92k9X3a+vTTXMP/wgTfDw8n+xkON6kwc0+onOt6QkXMf0FblJG8+BQq0JWYUouSmlQ5g==",
+  "dgSpecHash": "46gS91i6xkpp7rNOUqgJnoldf05rBO/+xjaeoeXfUe/HZbzqwY/tYgsoe0cMh7XdMRFvad91lde8uRSPAt2I0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\dotnetcore-web-application\\WebApplication.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Yazılım\\Javascript\\pharmacy\\dotnetcore-web-application\\WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

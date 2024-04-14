@@ -1706,11 +1706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\dotnetcore-web-application\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Yazılım\\Javascript\\pharmacy\\dotnetcore-web-application\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Users\\user\\Documents\\dotnetcore-web-application\\WebApplication.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Yazılım\\Javascript\\pharmacy\\dotnetcore-web-application\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\dotnetcore-web-application\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Yazılım\\Javascript\\pharmacy\\dotnetcore-web-application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

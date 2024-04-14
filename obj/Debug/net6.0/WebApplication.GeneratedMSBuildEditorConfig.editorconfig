@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication
 build_property.RootNamespace = WebApplication
-build_property.ProjectDir = C:\Users\user\Documents\dotnetcore-web-application\
+build_property.ProjectDir = C:\Users\user\Desktop\Yazılım\Javascript\pharmacy\dotnetcore-web-application\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Documents\dotnetcore-web-application
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Yazılım\Javascript\pharmacy\dotnetcore-web-application
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Documents/dotnetcore-web-application/Views/Product/Detail.cshtml]
+[C:/Users/user/Desktop/Yazılım/Javascript/pharmacy/dotnetcore-web-application/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/dotnetcore-web-application/Views/Product/Index.cshtml]
+[C:/Users/user/Desktop/Yazılım/Javascript/pharmacy/dotnetcore-web-application/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
