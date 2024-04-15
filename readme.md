@@ -8,7 +8,7 @@ Kullanıcı ürünü sepete atarken stok kontrolü yapılıyor. Ödeme için sat
 # Not: Proje yapım aşamasındadır.
 
 # Content of the Project
-In C# language and ASP.NET platform, I wrote a code that transfers the products from https://dummyjson.com/products to the database in JSON format with a multi-thread structure. The purpose of using multi-thread structure is; To be able to transfer data quickly in case of a lot of products. I wrote the data to the database via RabbitMQ. Thus, I performed data operations asynchronously, without tiring the database and preventing lost transactions.
+In C# language and ASP.NET platform, I wrote a code that transfers the products from https://dummyjson.com/products to the database in JSON format with a multi-thread structure. The purpose of using multi-thread structure is; to be able to transfer data quickly in case of a lot of products. I wrote the data to the database via RabbitMQ. Thus, I performed data operations asynchronously, without tiring the database and preventing lost transactions.
 
 I built a page that lists imported products. When you click on a product in the list, the product detail page opens. Product details; I enabled Redis to be fetched through caching technology to increase the efficiency of the application. If the product detail is not cached in Redis, the program pulls it from the database, meanwhile caches it to Redis and calls the information from Redis on the next request.
 
